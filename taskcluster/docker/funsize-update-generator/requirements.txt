@@ -28,7 +28,7 @@ ptyprocess==0.5.2
 pyasn1==0.4.2
 pycparser==2.18
 python-dateutil==2.6.1
-python-gnupg==0.4.1
+python-gnupg==0.4.4
 PyYAML==3.12
 redo==1.6
 requests==2.18.4

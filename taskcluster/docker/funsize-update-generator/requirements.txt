@@ -32,7 +32,7 @@ python-gnupg==0.4.1
 PyYAML==3.12
 redo==1.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.12
 scriptworker==6.0.0
 simplejson==3.13.2
